@@ -1,0 +1,1 @@
+sudo ./log4j2-scan --scan-log4j1 / --exclude /snap
